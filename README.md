@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
  <div>
   <a href="https://github.com/AlessandraFS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandraFS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlessandraFS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraFS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
