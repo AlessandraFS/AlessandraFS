@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
+   <!--
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AlessandraFS/count.svg" /></p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlessandraFS&no-bg=true&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
   
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) 
   
 <div>
   <a href="https://github.com/AlessandraFS">
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraFS&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-
+-->
 ##
  
   <div style="display: inline_block"><br>
@@ -50,9 +51,8 @@ Here are some ideas to get you started:
   
   ![Snake animation](https://github.com/AlessandraFS/AlessandraFS/blob/output/github-contribution-grid-snake.svg)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlessandraFS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=4DD828&ring=4C4C4C&currStreakLabel=FFFFFF)](https://git.io/streak-stats)  
-  
-<!--   ![GitHub metrics](https://metrics.lecoq.io/AlessandraFS)   -->
+ <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlessandraFS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=4DD828&ring=4C4C4C&currStreakLabel=FFFFFF)](https://git.io/streak-stats)  
+     ![GitHub metrics](https://metrics.lecoq.io/AlessandraFS)   -->
   
   </div>
   
