@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
     
   
-  ![Snake animation](https://github.com/AlessandraFS/AlessandraFS/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/AlessandraFS/AlessandraFS/blob/output/github-contribution-grid-snake.svg) -->
 
  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlessandraFS&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=4DD828&ring=4C4C4C&currStreakLabel=FFFFFF)](https://git.io/streak-stats)  
      ![GitHub metrics](https://metrics.lecoq.io/AlessandraFS)   -->
